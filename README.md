@@ -1,4 +1,6 @@
 # Last Horizon
+**Version: v2.0.1**
+
 Bathed in hues of crimson and gold, she stands between day and night — a fleeting dream painted by the dying sun.
 The world holds its breath as the sky burns with her silence.
 In that fragile moment, beauty and sorrow melt into one eternal glow.
@@ -8,17 +10,17 @@ In that fragile moment, beauty and sorrow melt into one eternal glow.
 
 # Installation Theme
 
-To install this theme, simply use the omarchy-theme-install command:
+To install this theme, simply use the omarchy theme command:
 
 ```bash
-omarchy-theme-install https://github.com/HANCORE-linux/omarchy-lasthorizon-theme.git
+omarchy theme install https://github.com/HANCORE-linux/omarchy-lasthorizon-theme.git
 ```
 
 ## Waybar-Theme
 For my Waybar-Theme simply check my [Link](https://github.com/HANCORE-linux/waybar-themes)
 
-## Wallpaper
-- BG4 by DeviantArt Designer [DVAULTZ](https://www.deviantart.com/dvaultz/art/Inner-Levels-1289491031)
+## Wallpapers
+Multiple beautiful backgrounds included in the `backgrounds/` directory.
 
 ### License
 MIT
