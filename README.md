@@ -1,5 +1,7 @@
-# Last Horizon
+# New Horizon
 **Version: v2.0.1**
+
+*Inspired by the original [Last Horizon](https://github.com/HANCORE-linux/omarchy-lasthorizon-theme).*
 
 Bathed in hues of crimson and gold, she stands between day and night — a fleeting dream painted by the dying sun.
 The world holds its breath as the sky burns with her silence.
@@ -13,7 +15,7 @@ In that fragile moment, beauty and sorrow melt into one eternal glow.
 To install this theme, simply use the omarchy theme command:
 
 ```bash
-omarchy theme install https://github.com/HANCORE-linux/omarchy-lasthorizon-theme.git
+omarchy theme install https://github.com/nenas1ya/omarchy-newhorizon-theme.git
 ```
 
 ## Waybar-Theme
